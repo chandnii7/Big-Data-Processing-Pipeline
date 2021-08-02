@@ -11,11 +11,11 @@ Overview:
 * MongoDB stores the obtained tweets for later analysis 
 * Tableau creates meaningful visualizations
 <br/>
-<img src="https://github.com/chandnii7/Big-Data-Processing-Pipeline/blob/main/images/architecture.jpg" height="300" width="600"/>
+<img src="https://github.com/chandnii7/Big-Data-Processing-Pipeline/blob/main/images/architecture.jpg" height="300" width="800"/>
 <br/>
 
 ### Results:
 Upon examining the visualizations we see a relative concentration of tweets containing the COVID hashtag in the Americas, Europe, and Southern Asia, this seems to line up with expectations of areas that both have a high adoption of twitter and many Covid-19 cases.  Further work needs to be done to validate this conclusion though.
 <br/>
-<img src="https://github.com/chandnii7/Big-Data-Processing-Pipeline/blob/main/images/heatMap.jpg" height="300" width="400"/>
+<img src="https://github.com/chandnii7/Big-Data-Processing-Pipeline/blob/main/images/heatMap.jpg" height="300" width="500"/>
 <br />
